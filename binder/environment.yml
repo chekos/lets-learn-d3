@@ -1,0 +1,9 @@
+name: lets-learn-d3
+channels:
+  - conda-forge
+dependencies:
+  - rise
+  - jupyterlab
+  - python
+  - pip:
+    - jupyter-contrib-nbextensions
