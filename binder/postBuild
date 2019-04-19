@@ -2,3 +2,4 @@ jupyter contrib nbextension install --user
 jupyter nbextension enable splitcell/splitcell
 jupyter-nbextension install rise --py --sys-prefix
 jupyter-nbextension enable rise --py --sys-prefix
+jupyter labextension install @jupyter-widgets/jupyterlab-manager
